@@ -1,1 +1,3 @@
 First line of text added.
+Another line of text added.
+And then there is another line.
