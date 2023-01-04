@@ -1,1 +1,9 @@
 added some text in file 2.
+some basic git commands
+1. Intializing git in a folder : git init
+2. connecting the local repository with the github repository : git remote add origin repo link
+3. Checking the updates on files : git status
+4. addding files to git : git add .(it adds all files), git add filename (adds just that file)
+5. committing changes to git : git commit -m "update message"
+6.pushing the updated file : git push origin master
+Note : be mindful about the default branch.
