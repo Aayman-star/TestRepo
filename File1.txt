@@ -1,3 +1,8 @@
 First line of text added.
 Another line of text added.
 And then there is another line.
+
+Okay so there are two separate branches in github now. one is called the master
+branch and the other is the new main branch. So now we have to be mindful of which
+brach is being used as the default branch. Better to set the default branch as master
+when we are creating the repository.
