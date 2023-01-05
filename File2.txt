@@ -7,3 +7,7 @@ some basic git commands
 5. committing changes to git : git commit -m "update message"
 6.pushing the updated file : git push origin master
 Note : be mindful about the default branch.
+7. Another thing to add here is that if you accidentally make main to be the default branch
+and then push code to the master branch. the subequent insertions will be trouble.
+to fix try this before the push command: git pull <repolink> <master>
+Then push code to the master branch.
